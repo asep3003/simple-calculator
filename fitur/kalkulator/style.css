@@ -1,0 +1,43 @@
+.card {
+    background-color: #EFE0D9;
+    width: 350px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    border-radius: 28px;
+    color: #AF7547;
+}
+
+.card h1 {
+    padding: 10px 0 20px 0;
+}
+
+input {
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.htg1 {
+    border: none;
+    border-radius: 5px;
+    width: 30px;
+    height: 30px;
+    margin-left: 1px;
+}
+
+.fungsi {
+    color: red;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.garis {
+    width: 150px;
+    height: 1px;
+    background-color: #676767;
+}

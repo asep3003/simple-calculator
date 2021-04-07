@@ -1,0 +1,60 @@
+.start1 {
+    margin: auto;
+    margin-top: 15%;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #30c5dc;
+    transition: transform .1s;
+    transform: rotate(-45deg); 
+}
+
+.start1:hover {
+    transform: rotate(-45deg) scale(1.1);
+    box-shadow: 0px 0px 15px #30C5DC;
+    cursor: pointer;
+}
+
+.start2 {
+    margin-left: 55px;
+    margin-top: 55px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #30C5DC;
+    border-right-color: #131C21;
+    transition: transform .1s;
+    transform: rotate(-45deg);
+}
+
+.start3 {
+    margin-top: 38px;
+    margin-left: 50px;
+    width: 40px;
+    height: 5px;
+    background-color: #00fbffbd;
+}
+
+.go {
+    color: white;
+    text-align: center;
+    margin-top: 7%;
+    animation: gerak 1s infinite alternate;
+}
+
+.go h1 {
+    text-shadow: 1px 1px 5px white;
+}
+
+@keyframes gerak {
+    from {
+
+    }
+    to {
+        transform: scale(0.9,0.9);
+    }
+}

@@ -1,0 +1,35 @@
+.card {
+    background-color: #EFE0D9;
+    width: 350px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    border-radius: 28px;
+    color: #AF7547;
+}
+
+input {
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    margin-top: 40px;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    background-color: #E69200;
+    margin-top: 15px;
+}
+
+.logika {
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
