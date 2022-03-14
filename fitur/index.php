@@ -18,7 +18,7 @@
                 <a href="luas lingkaran/index.php">Menentukan Luas Lingkaran</a><br>
                 <a href="luas segitiga/index.php">Menentukan Luas Segitiga</a><br>
                 <a href="suku n/index.php">Menentukan Suku Ke-n</a><br>
-                <a href="menghitung harga diskon/index.php">Menghitung Harga Diskon <span>New!</span></a><br>
+                <a href="menghitung harga diskon/index.php">Menghitung Harga Diskon</a><br>
             </div>
         </div>
     </body>
