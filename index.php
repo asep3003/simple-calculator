@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Projek Web 2</title>
+        <title>Simple Calculator</title>
         <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="bg.css">
     </head>

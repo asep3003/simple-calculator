@@ -18,7 +18,7 @@
             <h1>Menentukan Persentase</h1>
 
             <form method="post">
-                <input type="number" name="nilai" placeholder="Masukan Nilai" autocomplete="off" required max="100"><br>
+                <input type="text" name="nilai" placeholder="Masukan Nilai" autocomplete="off" required max="100"><br>
                 <button type="submit" name="proses">Proses</button><br>
             </form>
 
